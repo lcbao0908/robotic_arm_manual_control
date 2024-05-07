@@ -1,4 +1,4 @@
-![Robotic Arm Rev C (CURRENT) v0](https://github.com/lcbao0908/robotic_arm_manual_control/assets/109941845/6e2cea85-74c2-48b2-bcce-4176a91e3880)
+![Robotic Arm Rev C (CURRENT) v0](https://github.com/lcbao0908/robotic_arm_manual_control/assets/109941845/061b0577-39be-4796-8efc-39b8b57f74f1)
 
 # Project Overview:
 
