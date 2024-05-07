@@ -2,7 +2,6 @@
 
 # Project Overview:
 
-
 This GitHub repository is dedicated to the design and implementation of a student-built robotic arm system, focusing both mechanical, electrical, and software engineering principles to enhance learning and application in robotics. The focus of this project is to provide a comprehensive educational platform that illustrates the integration of Proportional and Integral (PI) Gain control within robotic systems.
 
 # Educational Goals:
@@ -11,7 +10,7 @@ The robotic arm model showcased here is designed with an educational perspective
 
 # Features:
 
-**Manual Joy-Stick Control:** Step-by-step guidance on how to achieve manual control of the robotic arm using joysticks.
+**Manual Joy-Stick Control:** Step-by-step guidance on how to achieve manual control of the robotic arm using Thrustmaster joysticks.
 **Inverse Kinematics Joy-Stick Control:** Demonstrates control of the robotic arm in a linear path along X and Y coordinates, using advanced inverse kinematics algorithms.
 **Inverse Kinematics Autonomous:** Utilizing inverse kinematic for autonomous movements
 **PI Gain Implementation:** A detailed exposition on how Proportional and Integral gains are calculated and utilized to enhance the stability and accuracy of the robotic arm.
