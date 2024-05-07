@@ -36,8 +36,6 @@ x_values = linspace(startX, endX, numSteps); % Linearly spaced x values from sta
 y_values = linspace(startY, endY, numSteps); % Linearly spaced y values from start to end
 
 %% Non-Animation Inverse Kinematic
-x = x + 1; % CHANGE HERE FOR THE DISTANCE TRAVELED ALONG X (HORIZONTAL)
-y = y - 0; % CHANGE HERE FOR THE DISTANCE TRAVELED ALONG X (HORIZONTAL)
 c2 = (x*x + y*y - L1*L1 - L2*L2) / (2 * L1 * L2);
 s2 = sqrt(1 - c2*c2);
 target_3rdAngle = -atan2(s2, c2)*(180/pi); % Calculate target angle of 2nd axis IKE (degrees)
